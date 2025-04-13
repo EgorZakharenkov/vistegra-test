@@ -1,0 +1,18 @@
+.resultsTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.resultsTable th, .resultsTable td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.resultsTable th {
+  background-color: #f4f4f4;
+}
+
+.resultsTable td {
+  background-color: #fff;
+}
